@@ -1,0 +1,23 @@
+# Data files (not publishing code or data yet)
+*.py
+*.pyc
+*.jsonl
+*.json
+*.yaml
+*.yml
+*.png
+*.log
+*.txt
+
+# Keep branding files
+!README.md
+!CONTRIBUTING.md
+!ROADMAP.md
+!LICENSE
+!.gitignore
+!requirements.txt
+
+# Directories
+__pycache__/
+analysis_output/
+.claude/
